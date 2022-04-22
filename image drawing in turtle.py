@@ -23,7 +23,7 @@ def outline():
                                 thresholdType=cv2.THRESH_BINARY, blockSize=11, C=2)
     return th3
 
-image = 'little girl.jfif'
+image = 'little girl.png'
 im = cv2.imread(image, 0)
 th3 = outline()
 

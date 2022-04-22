@@ -12,7 +12,7 @@ pip install matplotlib
 
 this is original image
 
-![Uploading little girl.jfif…]()
+![little-girl](https://user-images.githubusercontent.com/103664822/164676156-69671995-a2e7-463b-ba88-4fb9545f7d94.png)
 
 output of this program
 

@@ -6,7 +6,7 @@ pip install turtle
 
 pip install numpy
 
-pip install cv
+pip install opencv-python
 
 pip install matplotlib
 
